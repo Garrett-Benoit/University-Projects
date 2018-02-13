@@ -1,0 +1,14 @@
+This zip file contains
+
+Project_2_Read_Write
+-> Read_Write_Package
+	-> Read_Write_Frame.java
+	-> Read.java
+
+Project_2_Read_Write.jar
+
+text.txt
+
+Read_write_Frame.java
+
+Read.java
