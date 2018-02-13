@@ -1,0 +1,3 @@
+This zip folder contains the cars program.  Source code is included as individual .jar files.
+
+No warnings occur upon program compilation.
